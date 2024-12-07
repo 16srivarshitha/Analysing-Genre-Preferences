@@ -5,7 +5,7 @@
 - Objective
 - Observations
 - Conclusions
-//What was your motivation? Why did you build this project?
+  <What was your motivation? Why did you build this project?
 
 What problem does the project solve? Or, what it does?
 
@@ -21,4 +21,4 @@ What’s next for the project?
 
 Mention languages, frameworks, databases, etc.
 
-Provide deploy links or any other required links.
+Provide deploy links or any other required links. >
