@@ -1,8 +1,8 @@
 # Analysing-Genre-Preferences
 ## Table of Contents
-- Dataset Generation
-- Methods Used
-- Objective
+- Dataset Generation : The Datast consists of popular songs and their audio features from 1965 to 2023. This was generated using Spotify API.
+- Methods Used : 
+- Objective : 
 - Observations
 - Conclusions
   <!--What was your motivation? Why did you build this project?
