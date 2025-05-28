@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project analyzes music genre preferences and audio feature evolution from 1965 to 2023 using the Spotify Web API. The study examines how musical characteristics have transformed over nearly six decades, providing quantitative insights into genre popularity trends and the relationship between audio features and musical classification.
+This project analyzes music genre preferences and audio feature evolution from 1965 to 2023 using the Spotify Web API. The study examines how musical characteristics have transformed over nearly six decades, providing quantitative insights into genre popularity trends and the relationship between audio features and musical classification. It also examines the rise in music consumption driven by the convenient and affordable access offered by digital platforms such as Spotify, iTunes, and others.
 
 ## Introduction
 
@@ -65,7 +65,8 @@ The correlation heatmap reveals relationships between different audio features, 
 ![Popularity of Hip Hop over time](Plots/hip hop_popularity_over_years.png)
 ![Popularity of Mellow gold over time](Plots/mellow gold_popularity_over_years.png)
 
-
+### Principal Component Analysis per Genre
+![PCA per Genre Hexbin plot](Plots/PCA_density.png)
 
 ## Results and Discussion
 
