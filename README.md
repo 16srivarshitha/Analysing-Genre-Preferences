@@ -60,10 +60,9 @@ The correlation heatmap reveals relationships between different audio features, 
 
 ### Genre popularity over time
 
-![Popularity of Classic rock over time](Plots/classic rock_popularity_over_years.png)
-![Popularity of Hard Rock over time](Plots/hard rock_popularity_over_years.png)
-![Popularity of Hip Hop over time](Plots/hip hop_popularity_over_years.png)
-![Popularity of Mellow gold over time](Plots/mellow gold_popularity_over_years.png)
+![Popularity of Hard Rock over time](Plots/rock_popularity_over_years.png)
+![Popularity of Hip Hop over time](Plots/hip_hop_popularity_over_years.png)
+![Popularity of Mellow gold over time](Plots/mellow_gold_popularity_over_years.png)
 
 ### Principal Component Analysis per Genre
 ![PCA per Genre Hexbin plot](Plots/PCA_density.png)
